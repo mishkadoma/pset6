@@ -7,6 +7,6 @@ for i in range(0, height):
 
     indentation =  height - (i + 1)
     print(" " * indentation, end = "")
-    for i in range 2:
+    for k in range(2):
         print("#" * (i + 2), end = "")
     print(" " * indentation)
