@@ -4,7 +4,6 @@ while True:
         break
 
 for i in range(0, height):
-
     indentation =  height - (i + 1)
     print(" " * indentation, end = "")
     print("#" * (i + 2))
