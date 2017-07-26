@@ -1,4 +1,4 @@
-while true:
+while True:
     height = int(input('Enter the piramide height > '))
     if height >= 0:
         break
