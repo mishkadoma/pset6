@@ -1,14 +1,10 @@
 coins = 0
-money_amount = -1
 
-def set_money():
+while True:
     print("Hi! How much change is owed?")
-    global money_amount
     money_amount = float(input("> ")) * 100
-
-    
-while money_amount < 0:
-    set_money()
+    if money_amount >= 0:
+        break
 
 for i in [25, 10, 5, 1]:
     while money_amount / i >= 1.0:
