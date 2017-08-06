@@ -13,30 +13,31 @@ class Analyzer():
         self.negative_list = []
 
         for item in self.positives:
-            if not item.startswith(';') or item.startswith(' '):
+            if not item.startswith(';'):
+                item = item.strip().split(' ')
                 for word in item:
-                    positive_list.append(word.strip())
-
+                    self.positive_list.append(word.strip())
+        
         for item_2 in self.negatives:
-            if not item.startswith(';') or item.startswith(' '):
-                for word in item_2:
-                    negative_list.append(word.strip())
+            if not item_2.startswith(';'):
+                item_2 = item_2.strip().split(' ')
+                for word_2 in item_2:
+                    self.negative_list.append(word_2.strip())
 
 
     def analyze(self, text):
         """Analyze text for sentiment, returning its score."""
         text = text.split(' ')
         word_array = {}
-        initial_score = 0
+        
         for word in text:
             word_array[word] = 0
-            if word in positive_list:
+            if word in self.positive_list:
                 word_array[word] += 1
-            elif word in negative_list:
+            elif word in self.negative_list:
                 word_array[word] -= 1
 
-        for word, word_score in word_array:
-            score = initial_score + word_score
+        for word in word_array:
+            self.score += word_array[word]
 
-
-        return score
+        return self.score
