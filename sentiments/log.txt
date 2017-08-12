@@ -1,0 +1,200 @@
+0 [33m@maraoz 2FA, accounts? I thought #1 advice is using local wallet[0m
+0 [33mIs there already a way to ask some eth miner to mine my block without revealing block contents? Ie i give them hash and pay for results[0m
+2 [32m@altmind No, it's for django. Their anti ensure_csrf protection is easy to bypass if you can put body in GET[0m
+-1 [31mHow to send cross origin GET request with some post body? (GET allows body, but browsers ignore it in XHR)[0m
+0 [33m@ricburton @mhagelstrom @sytaylor May I suggest low 7? Since when few thousands of  LOC in solidity cost tens of millions $[0m
+0 [33m@RichardHeartWin @VitalikButerin @petertoddbtc In theory, ppl hold and lots of token is not for sale. Unless you wa… https://t.co/Rm9SzeQaXS[0m
+-1 [31m@stefano_soy Russian labs are saving on reagents and tests are just wrong[0m
+2 [32mI'm being offered to advise "X but decentralized" for $ or tokens (mostly tokens) fairly frequently. No, reputation… https://t.co/Cyd3lZ43EC[0m
+0 [33mI don't know all the details, but according to commits and most used code, Gav really did all the heavy lifting. Al… https://t.co/8jzj2cVU99[0m
+-1 [31m@Rolmopz I translated some of the reviews to french hospitals. Mostly negative[0m
+0 [33m@Rolmopz I researched, most dont speak Egnlish[0m
+0 [33mRT @Mansa_Godson: #Filecoin #ICO  everything you need to know https://t.co/fuOdUMaMaE[0m
+-1 [31m@lyon01_david It's probably too expensive for medical tourism. Also my choice of visa free countries is limited[0m
+0 [33m@Antonlovesdnb Not much english there[0m
+2 [32mI think about going to Israel or another country to do all tests again to cure my urticaria. Recommendations?[0m
+-2 [31mRussian health care is almost as bad as in Thailand. Shitty tests with different results, shitty meds (sanctions) and incompetent doctors[0m
+0 [33m@sam_wizer I can only think of child porn. Everything else is allowed here on twitter.[0m
+0 [33m"But a phone number? Everyone has one." - NO https://t.co/aHhSTyEHQM[0m
+2 [32m@MisterCh0c I can't imagine a company like twitter paying filecoins to store their tweets. Centralized datacenter is always more effective[0m
+2 [32m@julianor like swarm? then, it's success depends on success of dapps[0m
+-1 [31m@paulmillr which scales even worse?[0m
+-1 [31m@thatkriscarter what do you mean exactly? Pump and dump?[0m
+-1 [31mStorage is cheap as F. Gmail: 1.28 GB (8%) of 15 GB used. Who is the target market of decentralized storage?[0m
+-1 [31mBut I have not been paying for ANY cloud storage in my life. In Filecoin I need to pay. Why would I?[0m
+0 [33mCan anyone clarify Filecoin use cases? E.g. BTC is money storage and I actually use it, ETH=world computer and I mi… https://t.co/o2mKuSUFjh[0m
+1 [32m@malgorithms wanna do a joint challenge? smaller bounty, but picking a real world pw from some top 10M list[0m
+2 [32mSecureLogin was inspired by WarpWallet. @maxtaco @malgorithms are WAY better than me at arguments   https://t.co/xFpBr7nlKq Brainwallets FTW[0m
+0 [33mRT @brian_armstrong: https://t.co/ejnsv3bkJp[0m
+-1 [31mBTC-e to Coinbase is what VK was to Facebook. And they killed it. No intervention from Ru government, because they don't understand tech :([0m
+0 [33mReal reason of Vinnik's arrest is not laundry/MtGox. The goal is to take down BTC-e, quite legit business, mainly Russian and independent.[0m
+-1 [31m@ChristopherA @VladZamfir Open-source design of the cheap, but many manufacturers? China has a lot of competing man… https://t.co/ooySeBf0y9[0m
+2 [32mIt's wise to protect your investments, but it's wiser to not spent the rest of your money on it :) https://t.co/Zj9Hh1XOdz[0m
+1 [32m@VladZamfir Like if bitmain was product of nakamoto they wouldnt be asses[0m
+-1 [31m@VladZamfir Im afraid a 3rd party could develop and abuse it so Foundation better do it first and enforce some of the mentioned policies[0m
+0 [33m@VladZamfir What do you think about ASIC but for entire node not just mining: evm, transactions, everything metal-fast?[0m
+-2 [31m@spastorino Kill slack with fire[0m
+0 [33mRT @spastorino: I'm using riot.im an OSS end-to-end encrypted alternative to Slack, it's amazing  and it also has bridges to IRC[0m
+0 [33m@ComradeCovfefe What do you mean verify? SPV[0m
+0 [33m@ComradeCovfefe You only type when create the wallet[0m
+0 [33m@ComradeCovfefe There is no need in long schemes. Simple email plus pw  and 30 sec derivation is unbreakable[0m
+0 [33m@ComradeCovfefe We need but we cant. No such organ. Only memory to brainwallet is what i see[0m
+0 [33m@ComradeCovfefe But it is the only doable and scalable approach. Others also require pw AND some centralized backup[0m
+-1 [31m@ComradeCovfefe For cold storage it is different. We need incentive to re type pw sometimes. But viruses..[0m
+-1 [31m@ComradeCovfefe And that pw problem is what securelogin solves[0m
+2 [32m@ComradeCovfefe I only remember what i need. If you make memory need smth like gmail pw, neuron network gets really strong[0m
+0 [33m@ComradeCovfefe Dont you think we need at least short term solution for these 20 years[0m
+2 [32m@ComradeCovfefe As long as bo one else can read your genes. Trust in hospitals etc. Memory is strong if you repeat and type it a lot.[0m
+1 [32m@ComradeCovfefe Tattoo of a paperwallet is best you can get from biometrics approach.[0m
+-1 [31m@ComradeCovfefe All known biometrics are static and leakable in every day life. Retina and fingerprint are not secr… https://t.co/pkBuu2jpcH[0m
+0 [33m@ComradeCovfefe Any example? Fibgerprint derived key?[0m
+0 [33m@ComradeCovfefe Like memory loss? Same for other options you can forget password, paper wallet location etc. Memory == you[0m
+0 [33m@zachaysan Same as other options. that btc will be gone forever[0m
+1 [32mNot everyone, I use strong brainwallet and my backup is alive as long as I am https://t.co/fw0o5EKoym[0m
+0 [33m"Hipster banks" in action:  N26 +ed my spendings https://t.co/gEPUO5IoO2   RocketBank says the dev occasionally dep… https://t.co/WNg82LwuAN[0m
+1 [32m@dcurtis Wake me up when someone sends me any useful comment on Instagram.[0m
+0 [33m@rocketbank перевод в 10к долларов обменяли по курсу 58.65 и это на 4 августа. Что за грабеж?[0m
+-1 [31m@asanso Nah, go hack Secp256k1 I know you can :p[0m
+0 [33mBitcoin, stop! I don't know what to do with all the money.[0m
+0 [33m@Paul__Walsh Not sure if you can or should rate ICO just by whitepaper or website. There is no product - nothing to rate.[0m
+-1 [31m@joeykrug @LefterisJP @phildaian EVM doesnt explicitely allow same contract's storage manipulation in subcalls AFAI… https://t.co/MSGIDM2DCn[0m
+0 [33mMaybe I missed it, but where is @internetofshit but for ICO? I have a ton of fun links. https://t.co/jV4tdPpooQ https://t.co/f7n1gSvsWp etc[0m
+-2 [31m@WhalePanda @Yubico You forgot No as an option. It's a pointless purchase. Everyone who understands threat modelling knows that :D[0m
+1 [32m@LefterisJP @phildaian What about this granular locking https://t.co/9jqfAngGdp I see it as best frictionless optio… https://t.co/PJMog9ftCm[0m
+0 [33m@LefterisJP @phildaian Then, it is not a solidity flaw. Solidity documentation flaw at best.[0m
+-1 [31mEVM debuggers: Mix, AlethZero, and even ether camp I tweeted about earlier is dead too :( All we are left with is c… https://t.co/WEjm4uqKPJ[0m
+0 [33m@_miw At least the miners would love the initiative :) Because 1) no dust 2) you use as many identities you have, i… https://t.co/BZvaRtxdSs[0m
+0 [33m10 months ago, but still relevant https://t.co/s8iAdAMl4p   ONLY 4.5M out of 10.5M had balance >0.001 BTC ($3).[0m
+-1 [31mNegative rate actually makes sense here. I don't understand why we must store unspendable dust or throwaway address from when it was cool.[0m
+-2 [31mAny plans for Core to let miners substract a fee from every UTXO? Makes people use few addr, kills dust. 2-4x smaller blockchain.[0m
+-1 [31m@VitalikButerin Huuuge difference "We fucked up pessimistic locking :( here is fix" vs "DAO fucked up, we are baili… https://t.co/03s3QasAk4[0m
+0 [33mAlso, if it were announced as EVM bug and fixed there, would be no need in fork, Classic, even all tx would still be valid. @VitalikButerin[0m
+1 [32mRT @qwertyoruiopz: @homakov you put into words what I have been thinking for a while. Kudos[0m
+-2 [31m@LefterisJP @phildaian If it is solidity flaw, is it fixed in new compilers? Exact same DAO code not vulnerable anymore?[0m
+-1 [31m@phildaian Sending money first and then substracting is natural way for programmers. I cant blame solidity for allowing it[0m
+0 [33m@phildaian But pessimistic lock would solve it withouy downside, right? Easier to deploy, no need for updates[0m
+2 [32mI found best EVM debugger: https://t.co/nScT7WAonD is beautiful! Anyone knows where is source of vmtrace? https://t.co/Q1hlVIQUNr[0m
+0 [33m@capzap71 через пару месяцев посмотрим зачем они сделали эту рекламу[0m
+0 [33m@capzap71 биткоины нет смысла "дискредитировать" - их уже хрен запретишь. А закрыть ютуб под удобным предлогом оч даже логично[0m
+0 [33m@ru_raz0r reentrancy is a myth it was race condition. It solves if you manually add it. So not the best solution[0m
+0 [33mAds in Russian Youtube show you how to buy LSD/MDMA with Bitcoin... https://t.co/cszDGcgjx1 I guess we won't have anymore Youtube very soon.[0m
+0 [33mopinion? @phildaian[0m
+-1 [31mIMHO: DAO reentry bug was and IS bug in EVM. I'm surprised everyone blamed DAO/Slock.it and not Ethereum itself https://t.co/9jqfAngGdp[0m
+-1 [31m@VitalikButerin Btw isn't reentry an EVM bug not DAO bug? How single tx can even modify same storage key twice?![0m
+-1 [31m@VitalikButerin The problem is you supported the DAO, not the DAO fork. Immature piece of software to lock-in 1/10 of internal currency.[0m
+0 [33m@TuurDemeester in short: put your money where your mouth is[0m
+1 [32mI've seen ERC20 tokens, platforms to exchange ERC20 tokens and emotional tokens. Where's the real cool stuff? ENS,… https://t.co/xtS6VGQf1c[0m
+0 [33m@epicgeezr 1 morrowind 2 XIII  3 arx fatalis 4 crusaders 2 5 space rangers 2[0m
+0 [33mThe Rock x Siri is nice concept, but UX in the video is bad. It should be casual assistant talking from my pocket. https://t.co/c2ja5fMgBs[0m
+0 [33m@gryzzly It is hard to find anyone good for sure[0m
+1 [32m@etherscan would be useful to see contract storage on contract page. any way?[0m
+-1 [31m@shallowmandrake i dont scratch at all[0m
+-1 [31m@nicksdjohnson Always wondered, can miners cheat about gas used spending gasLimit not actual gas?[0m
+0 [33m@maraoz Same, 10 years this year since html and seo books[0m
+0 [33mRT @FiloSottile: @WilliamTurton @outline For preying on a researcher getting arrested in the US to spin what he told you over dinner as sal…[0m
+1 [32m@phwd @anshuman_bh good point, it's vegas![0m
+0 [33m@pry0cc @jeremiahg i guess...not anymore?[0m
+0 [33m@anshuman_bh @phwd just read he is 23 though, so he couln't resist[0m
+0 [33m@chronic and tip only works if he is actually guilty. If this is made up bullshit, bragging is fine[0m
+-2 [31m@pwnsdx @ronindey I've stayed in expensive hotels few times. It's really stupid waste of money. airbnb 4 times cheaper, 2x more space.[0m
+0 [33m@chronic between friends? but he posted it online[0m
+1 [32m@pwnsdx @ronindey doesn't really matter. $2k/night? Must have $1m+ net worth. red flag[0m
+1 [32m@MisterCh0c Was that $3k deal one off? If he were making regular deals, he should have been quiet[0m
+1 [32m@Rolmopz I also push this as best practice noy as just an option. Free and never lost[0m
+0 [33m@Rolmopz Most apps dont accept user generated keys[0m
+0 [33m@donebutnotdone helps against histamines?[0m
+1 [32m@olanderofc cortisone gel? temporary fix, as well as anith pills[0m
+2 [32m@olanderofc well i had it for 6 months. something more strong[0m
+0 [33m> Hey Ethereum, send the money to 0x03e4B00B607d09811b0Fa61Cf636a6460861939F > Sending $1.5M to 0x03e4b00b607d09806… https://t.co/lLEZ7STEjf[0m
+-1 [31m@danielharan @jessethanley done all possible tests already. i don't scratch it[0m
+0 [33m@vldid no animals[0m
+1 [32m@stefano_soy i've seen 6 already. good are rare[0m
+0 [33m@spiroseliot even if i do, i had too many homes for such persistence[0m
+0 [33m@zk34911 no stretches. they disappear in few hours[0m
+1 [32m@0xabad1dea no, changed like 20 different cities[0m
+-1 [31m@inventur_es plus: itching everywhere if I don't take my antihistamines[0m
+-1 [31m@inventur_es i don't feel any stress since long time[0m
+-1 [31mI have these since May random times in random places. Unrelated to food. Doctors are clueless. Done diets and pills… https://t.co/LP9S3rSKtQ[0m
+0 [33m@Krazov @jasiek_ @nodejs Skynet: Rise of the NPM packages[0m
+-1 [31m@Krazov @jasiek_ @nodejs there were major ones already. leftpad. We need dead people I guess[0m
+0 [33mRT @feindura: I watched that happen a few years now :P https://t.co/FUpruiT9Vn[0m
+-2 [31m@AugurProject Freezing would get out of circulation a bunch of eth, so no idea where the price would go. The attack… https://t.co/hLTZkpu5NF[0m
+-2 [31m@AugurProject Saying "i freeze all your tokens if you don't pay me" would have no proof & reveal attack vector[0m
+-3 [31mHow freezing of @AugurProject using Serpent bug could be profitable for attackers? https://t.co/iM39rywpYk Shorting the market seems useless[0m
+-1 [31m@_JohnWhelan i guess this tweet was sarcastic then? https://t.co/H5DXVr0aWZ[0m
+-1 [31mAmerican dream: work hard play hard, Russian dream: work as little as possible, ideally cheat/steal, then play hard https://t.co/vaMC9VrYsD[0m
+0 [33m@steida I'm talking about all people. I never discuss about niche solutions.[0m
+-2 [31mSince it now happens on a daily basis - nobody gives a shit. Boiling frog is where we are. Negotiating password len… https://t.co/wwZk1gnx0C[0m
+-1 [31mOne big problem though, I'm 100% sure for people to realize that they must be screwed. At least once. Major email takeover or like that.[0m
+-1 [31mLess than a second to test a pw against a vault, it takes 20 s to test against SL. Backup providers also may deprive you of your data.[0m
+2 [32mIt is cheaper because no storage comes for free. You think free Dropbox or analogs won't use your "Backed up vault" for "market research"?[0m
+2 [32m(derivation alg+memorable input) is totally superior over (decryption alg+backed up vault+memorable input). Cheaper and harder to crack[0m
+-1 [31mMy essential /backup folder contains of: BTC keys, Apple keys, PGP keys... I hate it. All credentials must be deterministic in the future.[0m
+0 [33m@myetherwallet "Our team makes up to 200 pull ups in an hour"[0m
+0 [33m@maraoz why update? create new contract for each new version[0m
+0 [33m@estebs but how to tell final $ from this[0m
+0 [33mit, however, still not knows about working deposits as in bch case[0m
+0 [33mI can code it! Plz give me links to open order endpoints (JSON) - every site has one?[0m
+1 [32m@jasiek_ really? like who?[0m
+1 [32mLet's replace market cap lists with <input name=amount><input name=ticker> that gives you best possible $ you can sell for on most exchanges[0m
+-2 [31m@REXmls figured out - faulty contract resent it to external address. Thanks, keep up![0m
+-1 [31m@REXmls Because I searched for "REX" and found this one and its balance is 0. Maybe you mean this one is faulty ?https://t.co/yh8hTtLMpU[0m
+-2 [31m@REXmls https://t.co/6EnRAqNAf3 - is this faulty contract? Any ether was lost?[0m
+1 [32m@phildaian Why not? I support them (except don't understand why drop entire segwit) but bitcoin cash is too long to type[0m
+0 [33mThen scan the blockchain for inputs, and credit them WHEN you have a working product. It also stops trading of emoti (emotional tickers)[0m
+-1 [31mICO guys, why waste gas on stupid smart contracts? We know you routinely cancel tokens (hi verita..smth). Just use… https://t.co/1T84JjCymx[0m
+0 [33m@malltos92 @cyberboyIndia @SecuriTeam_SSD why[0m
+1 [32m@jacobrask initial verification is imo most important part. no package manager does it so far[0m
+2 [32m@jorilallo never updating is good for most packages. but at some point you will update right?[0m
+1 [32m@jorilallo just locking deps doesn't make them safe[0m
+0 [33mOne morning you wake up to see all your production owned by validateBirthday package which is dep of a dep of your shitty framework[0m
+-1 [31mNo work on this since 2015. PRs - rejected.  https://t.co/H25Kvs6Cf0 If 1 type-squatted package makes you scream, wait to see what's next :D[0m
+-1 [31mSomeone points out to a malicious npm package https://t.co/GjvTuK43GJ everyone realizes for a sec npm deps are house of cards, but proceeds.[0m
+-1 [31m@CharlieShrem @coinbase @Bitstamp ... yes? responsibility they can't even take negative interest for[0m
+0 [33mJust 2705 out of 1 091 521 Ethereum contracts are verified... Largest computer... or largest db of obfuscated code? https://t.co/ZS9nox2ggk[0m
+0 [33m@ethchris may I ask some clarification on remix?: https://t.co/w6BgrzrHUR[0m
+1 [32mThey did it, as promised will get some eth. (Not now ofc, will wait for next DAO and price drop) https://t.co/UMdzdBvo7V[0m
+0 [33m@angrymofo Pki = central authority somehwere[0m
+-2 [31mIrreversible decentralized ledger + the system full of centralization by design = not so decentralized. expensive a… https://t.co/F4VMoqwy0U[0m
+0 [33m@bitstein @oleganza Im sure most ppl transferred from coinbase to another online wallet not local[0m
+1 [32m@VladZamfir This is how to properly delete linkedin. https://t.co/oYzCZrCaTW[0m
+0 [33m@inventur_es @hola_org easily. you block ip of proxies, then you block ip of who delivers proxy list, then you bloc… https://t.co/wGj3zB0w1y[0m
+1 [32m@msuiche nice work & what do you think about solidity, did you dig much? I notice tons of pointless ISZERO ISZERO[0m
+2 [32m@lyon01_david @seananteau it definitely will in countries with apolitical  population like ours. Not gonna work out in EU or US so easily[0m
+0 [33m@rgov Same in china for twitter. We had github blocked too a few times.[0m
+1 [32m@bobbyrussa I don't leave in Russia much, but it is not good[0m
+0 [33mJust signed by Putin: no more VPN, i2p, tor etc in Russia starting Nov 1. FYI we still have Linkedin blocked since March[0m
+-1 [31m@projectSzign commie? fuck off[0m
+0 [33m@bcrypt Escalating RCE to micropenis[0m
+0 [33mTo not put up with this kind of bullshit is why I've not been doing bounties for over 2 years. Living happily ever after with real clients![0m
+2 [32mI managed to do any actions like Recommend or create tokens after they approved my custom domain for PoC. So anyone, feel free to exploit![0m
+0 [33mA month ago I reported to Medium takeover vulnerability via custom domains. I gave them PoC. No response or fix https://t.co/qNTv67Rcgv[0m
+0 [33m@BITCOlNCASH @laurilove @justicemate @olivierjanss @jimmysong @todu77 @rogerkver @ErikVoorhees @jgarzik @jonmatonis… https://t.co/LKM8NATzNI[0m
+-1 [31m@bitcoinpulse btw it's most useless 2fa in the world. when you transact money SMS has no info about amount/destination. Just digits lol[0m
+0 [33m@bitcoinpulse thanks, found way w/o gvoice[0m
+0 [33m@msuiche macos build coming soon?[0m
+2 [32m@TommyWorldPower @el33th4xor what if crony capitalism is logical eventual result of pure capitalism?[0m
+0 [33m@TommyWorldPower @el33th4xor Does true capitalism exist anywhere else?[0m
+-1 [31m@michelteivel @sobbybutter that's hard, opened all accounts when I had rental agreement[0m
+0 [33m@michelteivel @sobbybutter i use fiat as little as possible so there's not much organization[0m
+0 [33m@romansnitko "capitalism"[0m
+-1 [31m@BofA_Help why would you need this info for such a generic problem[0m
+0 [33m@BofA_Help I have non-US number, but safepass has no mobile app option. Check back with your engineers to add googl… https://t.co/9s1SxlNVU1[0m
+3 [32m@sobbybutter Russian banks are awesome, ruble stability aside. See https://t.co/UVxBDNlGhA their app is as good as the landing. Or tinkoff[0m
+0 [33mAmerica is a proof why capitalism alone isn't enough. Worst Internet service, phone companies and now worst banking experience[0m
+1 [32mNo better than China: Sending over 1k with BofA? get safepass: sms or $20 card. sms to US numbers only. G Voice requires existing US number[0m
+1 [32m@oojx @myetherwallet basic multisig should have been supported on protocol level[0m
+2 [32mETH people: any recommendations for EVM debugger outside of `evm`? Something like this with step by step introspect… https://t.co/SY2mw9ERea[0m
+1 [32m@jaredhanson You can't stop 3rd parties from inveninting easier method or another solidity. Just do it first instead![0m
+1 [32m@julianor @SDLerner Yeah i dont see existential need for smart contracts in new language[0m
+0 [33m@izqui9 Not js but vm metering. Same way aws meters your usage[0m
+0 [33m@niksmac_ I mean remove date/math.random and other non deterministic methods, plus some blockchain/tx awareness[0m
+0 [33mWould this ETH replacement be viable? Bytecode -> plaintext JS inside contracts, EVM -> sandboxed Nodejs with stubs on external methods[0m
+2 [32mEthereum is like best hacker's birthday gift https://t.co/5Ju6yVQPux[0m
+1 [32m@lightcoin Yes they can, but if both users use same mixer 5>2 tx is less fees. tumblebit is ready to use?[0m
+0 [33m@sysmannet @jonmatonis No proof they won't return it yet[0m
+0 [33m@benlabs @NickSzabo4 User-chosen identity is fine, but passports, SSNs etc are trap[0m
+1 [32m@cperciva @stripe Should also support litecoin, it's your child in a way[0m
+0 [33m@NickSzabo4 no one really needs identity info. Identity is an ugly tag, which we must be freed from[0m
+0 [33m@TaylorPearsonMe get a blog ;)[0m
+0 [33m@romansnitko It solves need for captcha as there's no bruteforce (only offline cracking). It *can* solve spam with hashcash, in the future[0m

@@ -1,4 +1,4 @@
-# import nltk
+import nltk
 
 class Analyzer():
     """Implements sentiment analysis."""
@@ -11,15 +11,16 @@ class Analyzer():
 
         self.positive_list = []
         self.negative_list = []
+        self.tknzr = nltk.tokenize.TweetTokenizer()
 
         for item in self.positives:
-            if item.startswith(";") == item.startswith(" "):
+            if item.startswith(";") == item.startswith("\n"):
                 item = item.strip().split(' ')
                 for word in item:
                     self.positive_list.append(word.strip())
 
         for item_2 in self.negatives:
-            if item_2.startswith(';') == item_2.startswith(" "):
+            if item_2.startswith(';') == item_2.startswith("\n"):
                 item_2 = item_2.strip().split(' ')
                 for word_2 in item_2:
                     self.negative_list.append(word_2.strip())
@@ -27,7 +28,8 @@ class Analyzer():
 
     def analyze(self, text):
         """Analyze text for sentiment, returning its score."""
-        text = text.split(' ')
+
+        text = self.tknzr.tokenize(text)
         word_array = {}
 
         for word in text:
