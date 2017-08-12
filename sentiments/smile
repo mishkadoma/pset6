@@ -12,6 +12,8 @@ def main():
     if len(sys.argv) != 2:
         sys.exit("Usage: ./smile word")
 
+    lowercase_argv = sys.argv[1].lower()
+
     # absolute paths to lists
     positives = os.path.join(sys.path[0], "positive-words.txt")
     negatives = os.path.join(sys.path[0], "negative-words.txt")
@@ -20,7 +22,7 @@ def main():
     analyzer = Analyzer(positives, negatives)
 
     # analyze word
-    score = analyzer.analyze(sys.argv[1])
+    score = analyzer.analyze(lowercase_argv)
     if score > 0.0:
         print(colored(":)", "green"))
     elif score < 0.0:

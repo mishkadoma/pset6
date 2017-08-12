@@ -23,7 +23,7 @@ def main():
         # tknzr = TweetTokenizer()
         # final_tweet_chart = tknzr.tokenize(tweet)
         score = Analyzer(positives, negatives)
-        score = score.analyze(tweet)
+        score = score.analyze(tweet.lower())
         if score > 0.0:
             print(score, colored(tweet, "green"))
         elif score < 0.0:
