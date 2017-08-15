@@ -15,10 +15,6 @@ def main():
 
     screen_name = sys.argv[1]
 
-
-    positives = os.path.join(sys.path[0], "positive-words.txt")
-    negatives = os.path.join(sys.path[0], "negative-words.txt")
-
     for tweet in get_user_timeline(screen_name):
         # tknzr = TweetTokenizer()
         # final_tweet_chart = tknzr.tokenize(tweet)
