@@ -15,13 +15,13 @@ def chart(positive, negative, neutral):
     figure = {
         "data": [
             {
-                "labels": ["positive", "negative", "neutral"],
+                "labels": ["положительные твиты", "отрицательные твиты", "нейтральные твиты"],
                 "hoverinfo": "none",
                 "marker": {
                     "colors": [
-                        "rgb(0,255,00)",
-                        "rgb(255,0,0)",
-                        "rgb(255,255,0)"
+                        "rgb(0,155,40)",
+                        "rgb(255,102,128)",
+                        "rgb(255,255,100)"
                     ]
                 },
                 "type": "pie",

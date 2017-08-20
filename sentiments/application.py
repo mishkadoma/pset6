@@ -2,8 +2,14 @@ from flask import Flask, redirect, render_template, request, url_for
 
 import helpers
 from analyzer import Analyzer
+import os
+import sys
+from termcolor import colored
 
 app = Flask(__name__)
+
+positives = os.path.join(sys.path[0], "positive-words.txt")
+negatives = os.path.join(sys.path[0], "negative-words.txt")
 
 @app.route("/")
 def index():
@@ -17,11 +23,21 @@ def search():
     if not screen_name:
         return redirect(url_for("index"))
 
+
     # get screen_name's tweets
     tweets = helpers.get_user_timeline(screen_name)
 
-    # TODO
-    positive, negative, neutral = 0.0, 0.0, 100.0
+    positive, negative, neutral = 0.0, 0.0, 0.0
+
+    for single_tweet in tweets:
+        score = Analyzer(positives, negatives)
+        tweet_score = score.analyze(single_tweet.lower())
+        if tweet_score > 0:
+            positive += 1
+        elif tweet_score < 0:
+            negative += 1
+        else:
+            neutral += 1
 
     # generate chart
     chart = helpers.chart(positive, negative, neutral)

@@ -15,17 +15,22 @@ def main():
 
     screen_name = sys.argv[1]
 
+    positives = os.path.join(sys.path[0], "positive-words.txt")
+    negatives = os.path.join(sys.path[0], "negative-words.txt")
+
+
+
     for tweet in get_user_timeline(screen_name):
         # tknzr = TweetTokenizer()
         # final_tweet_chart = tknzr.tokenize(tweet)
         score = Analyzer(positives, negatives)
-        score = score.analyze(tweet.lower())
-        if score > 0.0:
-            print(score, colored(tweet, "green"))
-        elif score < 0.0:
-            print(score, colored(tweet, "red"))
+        tweet_score = score.analyze(tweet.lower())
+        if tweet_score > 0.0:
+            print(tweet_score, colored(tweet, "green"))
+        elif tweet_score < 0.0:
+            print(tweet_score, colored(tweet, "red"))
         else:
-            print(score, colored(tweet, "yellow"))
+            print(tweet_score, colored(tweet, "yellow"))
 
 
 
